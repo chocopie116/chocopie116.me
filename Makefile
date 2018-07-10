@@ -3,3 +3,11 @@ deploy:
 
 __dist:
 	mkdir -p __dist
+
+
+install:
+	go get -u  github.com/spf13/hugo
+
+
+server:
+	hugo server --buildDrafts --watch
