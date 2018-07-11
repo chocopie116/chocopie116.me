@@ -1,0 +1,52 @@
+<!DOCTYPE HTML>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	{{ partial "htmlHead.html" . }}
+	<body>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				{{ partial "header.html" . }}
+
+				{{ partial "menu.html" . }}
+
+				<!-- Banner -->
+					<section id="banner" class="major" style="background-image:url({{ .Site.Params.coverimageurl }})">
+						<div class="inner">
+							<header class="major">
+								<h1>{{ .Site.Params.major }}</h1>
+							</header>
+							<div class="content">
+								<p>{{ .Site.Params.subtitle }}<br />{{ .Site.Params.subtitleline2 }}</p>
+								<ul class="actions">
+									<li><a href="#one" class="button next scrolly">{{ .Site.Params.bannerCTA }}</a></li>
+								</ul>
+							</div>
+						</div>
+					</section>
+
+				<!-- Main -->
+					<div id="main">
+
+						{{ partial "categories.html" . }}
+
+						{{ partial "textSection.html" . }}
+
+					</div>
+
+				{{ partial "contact.html" . }}
+
+				<!-- Footer -->
+				{{ partial "footer/footer.html" . }}
+
+			</div>
+
+			{{ partial "scripts.html" . }}
+
+	</body>
+</html>
