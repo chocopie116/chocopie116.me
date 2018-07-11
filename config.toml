@@ -1,11 +1,10 @@
 languageCode = "en-us"
 title = "Portofolio"
 baseURL = "https://chocopie116.me/"
-theme = "../.."
 
 [params]
-    title = "Forty by HTML5 UP"
-    major = "Hi, my name is Forty"
+    title = "Tsubasa by HTML5 UP"
+    major = "Hi, my name is Tsubasa"
     coverimageurl = "images/cover.jpg"
     subtitle = "A responsive site template designed by HTML5 UP"
     subtitleline2 = "and released under the Creative Commons."
@@ -14,7 +13,7 @@ theme = "../.."
     googleAnalyticsId = "XXXXXXXX-X"
 
 [params.author]
-  firstname = "Forty"
+  firstname = "Tsubasa"
   lastname = "by HTML5 UP"
 
 [params.textsection]
@@ -28,10 +27,10 @@ theme = "../.."
 
 
 [params.social]
-  twitter = "twitter"
-  facebook = "facebook"
-  instagram = "instagram"
-  github = "github"
+  twitter = "chocopie116"
+  facebook = "chocopie116"
+  instagram = "chocopie116"
+  github = "chocopie116"
   linkedin = "linkedin"
 
 

@@ -1,8 +1,5 @@
 deploy:
-	aws s3 cp ./contents/exampleSite/public s3://portfolio-static-website --acl public-read --recursive
-
-__dist:
-	mkdir -p __dist
+	aws s3 cp ./public s3://portfolio-static-website --acl public-read --recursive
 
 
 install:
