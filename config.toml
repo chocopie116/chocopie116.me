@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "https://chocopie116.me/"
 languageCode = "en-us"
-title = "Forty"
+title = "Portofolio"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -19,8 +19,8 @@ disqusShortname = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "Your name"
-  description = "Your description"
+  name = "chocopie116's portofolio"
+  description = "about chocopie116"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -37,7 +37,7 @@ disqusShortname = ""
 
   # Navigation Section
   [params.navigation]
-    title = "Forty"
+    title = "Fooorty"
     subtitle = "By HTML5 Up"
     menu = "Menu"
     # Optional logo as brand stored in img/
