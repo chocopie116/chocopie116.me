@@ -19,10 +19,6 @@ disqusShortname = ""
   # for more icons. The icons are represented by their corresponding
   # CSS class.
 
-  # Provide your metadata here.
-  name = "chocopie116's portofolio"
-  description = "about chocopie116"
-
   # Link custom assets relative to /static
   custom_css = []
   custom_js  = []
