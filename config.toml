@@ -184,7 +184,6 @@ disqusShortname = ""
     enable = true
     copyright = "Company Name"
 
-
     [[params.footer.quicklinks]]
       text = "Design: "
       url= "https://www.html5up.net"
