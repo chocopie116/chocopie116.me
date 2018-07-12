@@ -1,4 +1,5 @@
 deploy:
+	hugo
 	aws s3 cp ./public s3://portfolio-static-website --acl public-read --recursive
 
 
