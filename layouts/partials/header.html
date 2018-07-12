@@ -6,7 +6,7 @@
 	<meta name="author" content="Tsubasa KAJINUMA">
 	{{ .Hugo.Generator }}
 	<title>{{ .Title }}{{ if not .IsHome }} &middot; {{ .Site.Title }}{{ end }}</title>
-	{{ "<!-- Stylesheets -->" | safeHTML }}
+	<!-- Stylesheets -->
 	<!--[if lte IE 8]><script src="js/ie/html5shiv.js"></script><![endif]-->
 	<link rel="stylesheet" href="{{ "css/main.css" | absURL}}"/>
 	<!--[if lte IE 9]><link rel="stylesheet" href="{{ "css/ie9.css" }}"/><![endif]-->
@@ -16,18 +16,13 @@
 		<link rel="stylesheet" href="{{ . | absURL }}">
 	{{ end }}
 
-	{{ "<!-- Custom Fonts -->" | safeHTML }}
+	<!-- Custom Fonts -->
 	<link href="{{ "css/font-awesome.min.css" | absURL }}" rel="stylesheet" type="text/css">
 
-	{{ with .Site.Params.favicon }}
-	<link rel="shortcut icon" type="image/x-icon" href="{{ . | absURL }}">
-	<link rel="icon" type="image/x-icon" href="{{ . | absURL }}">
-	{{ end }}
-
-	{{ "<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->" | safeHTML }}
-	{{ "<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->" | safeHTML }}
-	{{ "<!--[if lt IE 9]>" | safeHTML }}
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
 	<script src="js/ie/html5shiv.js"></script>
 	<script src="js/ie/html5shiv.jsrespond.min.js"></script>
-	{{ "<![endif]-->" | safeHTML }}
+	<![endif]-->
 </head>
