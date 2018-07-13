@@ -4,43 +4,89 @@
 	{{ partial "header.html" . }}
 	<body>
 
-	<!-- Wrapper -->
-		<div id="wrapper">
-			{{ partial "nav.html" . }}
+  <!-- Wrapper -->
+  <div id="wrapper">
+    {{ partial "nav.html" . }}
 
-			{{ partial "banner.html" . }}
-		<!-- Main -->
-			<div id="main">
+    <!-- Banner -->
+    <section id="banner" class="major"> <div class="inner">
+      <header class="major">
+        <h1>Work as Play</h1>
+      </header>
+      <div class="content">
+        <p>All work and no play makes Jack a dull boy.</p>
+        <ul class="actions">
+          <li><a href="#project" class="button next scrolly">GET KNOWN</a></li>
+        </ul>
+      </div>
+    </div>
+    </section>
+    <!-- Banner -->
 
-				{{ if .Site.Params.Tiles.enable }}
-					{{ partial "tile.html" . }}
-				{{ end }}
+    <!-- Main -->
+    <div id="main">
+      {{ if .Site.Params.Tiles.enable }}
+      {{ partial "tile.html" . }}
+      {{ end }}
 
-        <section id="two">
-          <div class="inner">
-            <header class="major">
-              <h2>共犯者募集</h2>
-            </header>
-            <p>プロジェクトを共にできる仲間を募集しています。下記のフォームよりご連絡ください。</p>
-            <ul>
-              <li>やりたいことがあるので力を借りたい</li>
-              <li>スキルを提供するので自分のポートフォリオをつくりたい</li>
-              <li>やりたいことが明確にあるわけではないが一緒にやってみたい</li>
+      <section id="two">
+        <div class="inner">
+          <header class="major">
+            <h2>共犯者募集</h2>
+          </header>
+          <p>プロジェクトを共にできる仲間を募集しています。下記のフォームよりご連絡ください。</p>
+          <ul>
+            <li>やりたいことがあるので力を借りたい</li>
+            <li>スキルを提供するので自分のポートフォリオをつくりたい</li>
+            <li>やりたいことが明確にあるわけではないが一緒にやってみたい</li>
+          </ul>
+        </div>
+      </section>
+    </div>
+    <!-- Main -->
+
+    <!-- Contact -->
+    <section id="contact">
+      <div class="inner">
+        <section>
+          <form method="post" action="#test">
+            <div class="field half first">
+              <label for="name">Name</label>
+              <input type="text" name="name" id="name" />
+            </div>
+            <div class="field half">
+              <label for="email">Email</label>
+              <input type="text" name="email" id="email" />
+            </div>
+            <div class="field">
+              <label for="message">Message</label>
+              <textarea name="message" id="message" rows="6"></textarea>
+            </div>
+            <ul class="actions">
+              <li><input type="submit" value="SUBMIT" class="special" /></li>
+              <li><input type="reset" value="CLEAR" /></li>
             </ul>
-          </div>
+          </form>
         </section>
+      </div>
+    </section>
+    <!-- Contact -->
 
-			</div>
+    {{ partial "footer.html" . }}
 
-      <!-- Contact -->
-      {{ partial "contact.html" . }}
+  </div>
 
-      <!-- Footer -->
-      {{ partial "footer.html" . }}
+  <script src="{{ "js/jquery.min.js"| absURL }}"></script>
+  <script src="{{ "js/jquery.scrolly.min.js"| absURL }}"></script>
+  <script src="{{ "js/jquery.scrollex.min.js"| absURL }}"></script>
+  <script src="{{ "js/skel.min.js"| absURL }}"></script>
+  <script src="{{ "js/util.js"| absURL }}"></script>
 
-		</div>
+  <!--[if lte IE 8]><script src="js/ie/respond.min.js"></script><![endif]-->
 
-  <!-- Scripts -->
-  {{ partial "js.html" . }}
-	</body>
+  <script src="{{ "js/main.js"| absURL }}"></script>
+
+  {{ template "_internal/google_analytics_async.html" . }}
+
+  </body>
 </html>
