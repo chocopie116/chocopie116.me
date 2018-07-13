@@ -1,13 +1,5 @@
 +++
-begin = "2012/04/01"
-end = "2013/05/01"
-title = "ECナビが入ります"
-subtitle = "タイトルのサブのタイトルがはいります。"
-img = "pic01.jpg"
-url = "projects/ecnavi"
-draft = true
-
+title = "タイトルが入ります"
+image = "pic06.jpg"
+subtitle = "サブタイトルが入ります"
 +++
-
-<h1>プロジェクトの説明が入ります.</h1>
-
