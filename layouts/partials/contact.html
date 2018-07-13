@@ -2,7 +2,7 @@
     <section id="contact">
         <div class="inner">
             <section>
-                <form method="post" action="https://formspree.io/{{ .Site.Params.Contact.formEmail }}">
+                <form method="post" action="#test">
                     <div class="field half first">
                         <label for="name">Name</label>
                         <input type="text" name="name" id="name" />
@@ -16,41 +16,10 @@
                         <textarea name="message" id="message" rows="6"></textarea>
                     </div>
                     <ul class="actions">
-                        <li><input type="submit" value="{{ .Site.Params.Contact.buttonSend }}" class="special" /></li>
-                        <li><input type="reset" value="{{ .Site.Params.Contact.buttonClear }}" /></li>
+                        <li><input type="submit" value="SUBMIT" class="special" /></li>
+                        <li><input type="reset" value="CLEAR" /></li>
                     </ul>
                 </form>
-            </section>
-            <section class="split">
-                <section>
-                    <div class="contact-method">
-                        <span class="icon alt fa-envelope"></span>
-                        {{ range .Site.Params.Contact.email }}
-                        <h3>{{ .title }}</h3>
-                        <a href="mailto:{{ .email }}">{{ .email }}</a>
-                        {{ end }}
-                    </div>
-                </section>
-                <section>
-                    <div class="contact-method">
-                        <span class="icon alt fa-phone"></span>
-                        {{ range .Site.Params.Contact.phone }}
-                        <h3>{{ .title }}</h3>
-                        <span>{{ .phone }}</span>
-                        {{ end }}
-                    </div>
-                </section>
-                <section>
-                    <div class="contact-method">
-                        <span class="icon alt fa-home"></span>
-                        {{ range .Site.Params.Contact.address }}
-                        <h3>{{ .title }}</h3>
-                        <span>{{ .street }}<br />
-                        {{ .city }}<br />
-                        {{ .country }}</span>
-                        {{ end }}
-                    </div>
-                </section>
             </section>
         </div>
     </section>

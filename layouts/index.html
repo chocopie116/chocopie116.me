@@ -32,20 +32,15 @@
 
 			</div>
 
-		<!-- Contact -->
-			{{ if .Site.Params.Contact.enable }}
-				{{ partial "contact.html" . }}
-			{{ end }}
+      <!-- Contact -->
+      {{ partial "contact.html" . }}
 
-		<!-- Footer -->
-			{{ if .Site.Params.Footer.enable }}
-				{{ partial "footer.html" . }}
-			{{ end }}
+      <!-- Footer -->
+      {{ partial "footer.html" . }}
 
 		</div>
 
-	<!-- Scripts -->
-		{{ partial "js.html" . }}
-
+  <!-- Scripts -->
+  {{ partial "js.html" . }}
 	</body>
 </html>
