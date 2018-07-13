@@ -31,13 +31,6 @@ disqusShortname = ""
     heading = "Page couldn't be found"
     text = "Please visit [this page](/)"
 
-  # Navigation Section
-  [params.navigation]
-    title = "Fooorty"
-    subtitle = "By HTML5 Up"
-    menu = "Menu"
-
-
 
   # Banner section
   [params.banner]
