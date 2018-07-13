@@ -51,7 +51,7 @@
       </div>
 
       <section id="one" class="tiles">
-        {{ range .Data.Pages }}
+        {{ range .Data.Pages.ByDate.Reverse }}
         <article>
         <span class="image">
         <img src='{{ .Site.Params.baseURL }}img/{{ .Params.Image }}' alt="" />
