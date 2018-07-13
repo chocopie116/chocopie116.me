@@ -22,26 +22,33 @@
     <nav id="menu">
       <ul class="links">
         <li><a href='{{ "" | absURL}}'>Home</a></li>
+        <li><a href='#projects'>Projects</a></li>
       </ul>
     </nav>
 
     <!-- Banner -->
-    <section id="banner" class="major"> <div class="inner">
-      <header class="major">
-        <h1>Work as Play</h1>
-      </header>
-      <div class="content">
-        <p>All work and no play makes Jack a dull boy.</p>
-        <ul class="actions">
-          <li><a href="#project" class="button next scrolly">GET KNOWN</a></li>
-        </ul>
+    <section id="banner" class="major">
+      <div class="inner">
+        <header class="major">
+          <h1>Work as Play</h1>
+        </header>
+        <div class="content">
+          <p>All work and no play makes Jack a dull boy.</p>
+          <ul class="actions">
+            <li><a href="#project" class="button next scrolly">GET KNOWN</a></li>
+          </ul>
+        </div>
       </div>
-    </div>
     </section>
     <!-- Banner -->
 
     <!-- Main -->
     <div id="main">
+      <div class="inner" id="projects">
+        <header class="major">
+          <h2>Projects</h2>
+        </header>
+      </div>
       {{ if .Site.Params.Tiles.enable }}
       {{ partial "tile.html" . }}
       {{ end }}
