@@ -53,6 +53,21 @@
       {{ partial "tile.html" . }}
       {{ end }}
 
+      {{ range $i, $el:= .Data.Pages }}
+      <section id="one" class="tiles">
+        <article>
+            <span class="image">
+                <img src="{{ .Site.Params.baseURL }}img/pic02.jpg" alt="" />
+            </span>
+          <header class="major">
+            <h3><a href='{{ "hoge"| absURL }}' class="link">タイトルが入ります</a></h3>
+            <p>タイトルのサブのタイトルが入ります。</p>
+          </header>
+        </article>
+      </section>
+      {{ end }}
+
+
       <section id="two">
         <div class="inner">
           <header class="major">
