@@ -6,7 +6,24 @@
 
   <!-- Wrapper -->
   <div id="wrapper">
-    {{ partial "nav.html" . }}
+
+    <!-- Header -->
+    <header id="header" class="alt">
+      <a href="{{ .Site.BaseURL }}" class="logo">
+        <strong>about me</strong>
+      </a>
+      <nav>
+        <a href="#menu"></a>
+      </nav>
+    </header>
+    <!-- Header -->
+
+    <!-- Menu -->
+    <nav id="menu">
+      <ul class="links">
+        <li><a href='{{ "" | absURL}}'>Home</a></li>
+      </ul>
+    </nav>
 
     <!-- Banner -->
     <section id="banner" class="major"> <div class="inner">
