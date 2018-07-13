@@ -49,22 +49,21 @@
           <h2>Projects</h2>
         </header>
       </div>
-      {{ if .Site.Params.Tiles.enable }}
-      {{ partial "tile.html" . }}
-      {{ end }}
 
       <section id="one" class="tiles">
-      {{ range .Data.Pages }}
+        {{ range .Data.Pages }}
         <article>
-            <span class="image">
-                <img src='{{ .Site.Params.baseURL }}img/{{ .Params.Image }}' alt="" />
-            </span>
-          <header class="major">
-            <h3>{{ .Params.Title }}</h3>
-            <p>{{ .Params.Subtitle }}</p>
-          </header>
+          <a href="{{ .Site.Params.baseURL}}/{{ .Params.Url }}">
+        <span class="image">
+        <img src='{{ .Site.Params.baseURL }}img/{{ .Params.Image }}' alt="" />
+        </span>
+            <header class="major">
+              <h3>{{ .Params.Title }}</h3>
+              <p>{{ .Params.Subtitle }}</p>
+            </header>
+          </a>
         </article>
-      {{ end }}
+        {{ end }}
       </section>
 
 
