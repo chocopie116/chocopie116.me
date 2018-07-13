@@ -32,14 +32,6 @@ disqusShortname = ""
     text = "Please visit [this page](/)"
 
 
-  # Banner section
-  [params.banner]
-    # To change the background image on the homepage banner, replace 'banner.jpg' in
-    # the 'static/img' folder.  title = "Hi, my name is Tsubasa"
-    subtitle = "A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP\nAND RELEASED UNDER THE CREATIVE COMMONS."
-    buttonText = "Get Started"
-
-
   # Tiles Section
   [params.tiles]
     enable = true
