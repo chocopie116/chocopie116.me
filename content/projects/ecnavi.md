@@ -1,9 +1,9 @@
 +++
-draft = true
-title = "タイトルが入ります"
+title = "ECナビが入ります"
 subtitle = "タイトルのサブのタイトルがはいります。"
 img = "pic01.jpg"
-url = "projects/hoge"
+url = "projects/ecnavi"
+draft = true
 
 +++
 
