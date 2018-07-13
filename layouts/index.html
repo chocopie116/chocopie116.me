@@ -53,10 +53,10 @@
       <section id="one" class="tiles">
         {{ range .Data.Pages }}
         <article>
-          <a href="{{ .Site.Params.baseURL}}/{{ .Params.Url }}">
         <span class="image">
         <img src='{{ .Site.Params.baseURL }}img/{{ .Params.Image }}' alt="" />
         </span>
+          <a href="{{ .Site.Params.baseURL}}/{{ .Params.Url }}">
             <header class="major">
               <h3>{{ .Params.Title }}</h3>
               <p>{{ .Params.Subtitle }}</p>

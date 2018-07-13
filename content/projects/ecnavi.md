@@ -1,6 +1,6 @@
 +++
 title = "ECナビ"
-image = "pic06.jpg"
+image = "pic01.jpg"
 subtitle = "お小遣いを稼げるポイントサイト"
 url = "projects/ecnavi"
 +++
