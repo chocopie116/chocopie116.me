@@ -12,20 +12,9 @@ googleAnalytics = "UA-121866338-2"
 disqusShortname = ""
 
 [params]
-  # You can use Markdown syntax for urls [text](//url.to/source)
-  # To create multi-line text in strings use the """example Text""" format
-  #
-  # All icons using Fontawesome's icon font. Look at fontawesome.io/icons
-  # for more icons. The icons are represented by their corresponding
-  # CSS class.
-
-
-  # Just a custom image variable, please define it in .md files for content.
-  image = ""
-
   # 404 error customization
   [params.error404]
-    heading = "Page couldn't be found"
+    heading = ""
     text = "Please visit [this page](/)"
 
 
@@ -71,20 +60,3 @@ disqusShortname = ""
       url = "blogs/ipsum"
     # You can make more showcases by copy and pasting the code above
 
-  [params.blog]
-    # All blogs defined in their own files. You can find example blogs
-    # at 'exampleSite/content/blogs'. Copy the 'blogs' folder into the 'content' directory
-    # at the root of this Hugo site.
-    # For more informtion take a look at the README.
-    # To add more blogs just copy and paste the code.
-
-
-  # Footer section
-  [params.footer]
-    enable = true
-    copyright = "Company Name"
-
-    [[params.footer.quicklinks]]
-      text = "Design: "
-      url= "https://www.html5up.net"
-      alt = "HTML5 UP"
