@@ -1,8 +1,9 @@
 +++
-draft = true
-title = "タイトルが入ります"
-img = "pic01.jpg"
+date = ""
+title = "title"
+image = "pic01.jpg"
+subtitle = "something"
+url = "projects/something"
 +++
 
-<!-- 何か入るかも -->
-
+何か記事が入ります
