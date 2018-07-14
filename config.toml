@@ -1,21 +1,10 @@
 # Site settings
 baseURL = "https://chocopie116.me/"
 languageCode = "en-us"
-title = "Portofolio"
+title = "Tsubasa KAJINUMA"
 theme = "forty"
-
-# Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-121866338-2"
 
-
-# Enter your disqus shortname to enable comments
-disqusShortname = ""
-
-[params]
-  # 404 error customization
-  [params.error404]
-    heading = ""
-    text = "Please visit [this page](/)"
 
 [permalinks]
 projects = "/projects/:filename/"
