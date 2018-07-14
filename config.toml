@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "https://chocopie116.me/"
 languageCode = "en-us"
-title = "Tsubasa KAJINUMA"
+title = "homo ludens"
 theme = "forty"
 googleAnalytics = "UA-121866338-2"
 
