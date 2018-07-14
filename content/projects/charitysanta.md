@@ -1,7 +1,7 @@
 +++
 date = "2013-12-24T23:44:30+09:00"
 title = "チャリティーサンタ"
-image = "pic05.jpg"
+image = "santa.jpg"
 subtitle = "サンタクロースを支える申込管理サービス"
 +++
 

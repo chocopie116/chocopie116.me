@@ -1,7 +1,7 @@
 +++
 date = "2018-07-04T23:44:30+09:00"
 title = "Work In Progress"
-image = "pic01.jpg"
+image = "wedding.jpg"
 subtitle = "結婚式2次会ゲスト参加型クイズサービス"
 +++
 
