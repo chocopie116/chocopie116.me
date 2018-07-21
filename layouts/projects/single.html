@@ -5,20 +5,39 @@
 
 <div id="wrapper">
 
+  <section id="banner" class="major" style="background-image: url({{ .Site.Params.baseURL }}/img/{{ .Section }}/{{ .Params.image }})">
+    <div class="inner">
+      <header class="major">
+        <h1>{{ .Title }}</h1>
+      </header>
+      <div class="content">
+        <h2>{{ .Params.subtitle }}</h2>
+      </div>
+    </div>
+  </section>
+
   <div id="main" class="alt">
     <section id="one">
       <div class="inner">
-        <header class="major">
-          <h1>{{ .Title}}</h1>
-        </header>
-        {{ if .Params.image }}
-          <span class="image main"><img src="{{ .Site.Params.baseURL }}/img/{{ .Section }}/{{ .Params.image }}" alt="" /></span>
-        {{ end }}
         {{ .Content }}
       </div>
     </section>
 
   </div>
+
+  <section id="banner" class="major">
+    <div class="inner">
+      <header class="major">
+        <h1>Work as Play</h1>
+      </header>
+      <div class="content">
+        <p>All work and no play makes Jack a dull boy.</p>
+        <ul class="actions">
+          <li><a href="/" class="button next scrolly">HOME</a></li>
+        </ul>
+      </div>
+    </div>
+  </section>
 
   {{ partial "footer.html" . }}
 </div>
