@@ -54,10 +54,10 @@
       <section id="one" class="tiles">
         {{ range .Data.Pages.ByDate.Reverse }}
         <article>
+          <a href="{{ .Permalink }}">
         <span class="image">
         <img src='{{ .Site.Params.baseURL }}img/projects/{{ .Params.Image }}' alt="" />
         </span>
-          <a href="{{ .Permalink }}">
             <header class="major">
               <h3>{{ .Params.Title }}</h3>
               <p>{{ .Params.Subtitle }}</p>
