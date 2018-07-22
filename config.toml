@@ -9,3 +9,6 @@ googleAnalytics = "UA-121866338-2"
 [permalinks]
 projects = "/projects/:filename/"
 
+
+[blackfriday]
+hrefTargetBlank = true # target_blank

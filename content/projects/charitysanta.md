@@ -50,5 +50,5 @@ status="complete"
 - Heroku
 
 # Reference
-- チャリティーサンタ (http://www.charity-santa.com/)
-- チャリティーサンタ団体ページ (https://charity-santa.org/)
+- [チャリティーサンタ](http://www.charity-santa.com/)
+- [チャリティーサンタ団体ページ](https://charity-santa.org/)
