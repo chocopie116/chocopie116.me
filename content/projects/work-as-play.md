@@ -3,6 +3,7 @@ date = "2018-07-20T23:44:30+09:00"
 title = "遊ばざるもの食うべからず"
 image = "work_as_play.jpg"
 subtitle = "これから働き方の自然を考えてみる"
+weight=3
 +++
 
 ## Tag Line

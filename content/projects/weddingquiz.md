@@ -1,8 +1,9 @@
 +++
-date = "2018-07-04T23:44:30+09:00"
+date = "2018-07-21T23:44:30+09:00"
 title = "Work In Progress"
 image = "wedding.jpg"
 subtitle = "結婚式2次会ゲスト参加型クイズサービス"
+weight=4
 +++
 
 ## Tag Line

@@ -3,6 +3,7 @@ date = ""
 title = "title"
 image = "pic01.jpg"
 subtitle = "something"
+#weight=1 #for sort. (Top 1 -> n  Bottom)default=0
 +++
 
 ## Tag Line
