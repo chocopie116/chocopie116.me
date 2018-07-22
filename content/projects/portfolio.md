@@ -4,6 +4,7 @@ title = "Portfolio"
 image = "portfolio.jpg"
 subtitle = "これからのしごとの創り方をデザインしよう"
 weight=2
+status="progress"
 +++
 
 ## Tag Line

@@ -5,6 +5,7 @@ image = "pic01.jpg"
 subtitle = "something"
 draft = true
 tags = ["", ""]
+status="standby"  #enum: [standby, progress, complete]
 #weight=1 #for sort. (Top 1 -> n  Bottom)default=0
 +++
 

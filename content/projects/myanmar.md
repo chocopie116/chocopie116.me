@@ -3,6 +3,7 @@ date = "2018-07-04T23:44:30+09:00"
 title = "Work In Progress"
 image = "asia.jpg"
 subtitle = "ミャンマーでのビジネスチャンスを探る"
+status="standby"
 +++
 
 ノリ。  

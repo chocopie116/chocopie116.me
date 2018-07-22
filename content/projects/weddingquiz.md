@@ -4,6 +4,7 @@ title = "Work In Progress"
 image = "wedding.jpg"
 subtitle = "結婚式2次会ゲスト参加型クイズサービス"
 weight=4
+status="progress"
 +++
 
 ## Tag Line

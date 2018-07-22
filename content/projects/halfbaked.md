@@ -3,6 +3,7 @@ date = "2018-07-03T23:44:30+09:00"
 title = "halfbaked"
 subtitle = "強制アイディア発想サービス"
 image = "halfbaked.jpg"
+status="progress"
 +++
 
 

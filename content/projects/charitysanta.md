@@ -4,6 +4,7 @@ title = "チャリティーサンタ"
 image = "santa.jpg"
 subtitle = "サンタクロースを支える申込管理サービス"
 weight=1
+status="complete"
 +++
 
 ## Tag Line
