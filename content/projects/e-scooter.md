@@ -15,7 +15,7 @@ status="complete"
 モビリティにおける自動運転の前の唯一の革命だなと。
 この移動体験を日本でも広めたいというところからプロジェクトは始まりました。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gfL92pt2HJo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width:100%; min-height:300px;" src="https://www.youtube.com/embed/gfL92pt2HJo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Artifacts
