@@ -2,7 +2,7 @@
 date = "2018-07-20T23:44:30+09:00"
 title = "遊びから始まるしごとのデザイン"
 image = "work_as_play.jpg"
-subtitle = "これからの時代における働き方の自然を考えてみる"
+subtitle = "これからの働き方の自然を考えてみる"
 weight=3
 status="progress"
 +++
