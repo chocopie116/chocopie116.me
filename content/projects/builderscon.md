@@ -3,7 +3,6 @@ date = "2018-08-01T23:44:30+09:00"
 title = "builderscon"
 image = "builderscon.jpg"
 subtitle = "技術を愛するすべてのギークたちのお祭り"
-weight=2
 status="complete"
 +++
 
