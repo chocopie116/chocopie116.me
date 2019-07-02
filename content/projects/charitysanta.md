@@ -1,9 +1,8 @@
 +++
-date = "2014-12-24T23:44:30+09:00"
+date = "2018-07-21T23:44:30+09:00"
 title = "チャリティーサンタ"
 image = "santa.jpg"
 subtitle = "サンタクロースを支える申込管理サービス"
-weight=1
 status="complete"
 +++
 
