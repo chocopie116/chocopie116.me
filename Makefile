@@ -6,7 +6,7 @@ build:
 
 
 install:
-	go get -u  github.com/spf13/hugo
+	go get -v  github.com/spf13/hugo
 
 
 server:
