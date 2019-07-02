@@ -10,4 +10,4 @@ install:
 
 
 server:
-	hugo server --buildDrafts --watch
+	hugo server --buildDrafts --watch --disableFastRender
