@@ -52,7 +52,7 @@
       </div>
 
       <section id="one" class="tiles">
-        {{ range where .Data.Pages "Type" "projects"}}
+        {{ range where .Site.RegularPages "Type" "projects"}}
         <article>
           <a href="{{ .Permalink }}">
         <span class="image">
