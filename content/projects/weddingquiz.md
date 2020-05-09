@@ -19,7 +19,7 @@ status="progress"
 
 ## Artifacts
 
-現在開発中。
+現在、正式版のリリースに向け開発中。
 
 ### Tool
 
