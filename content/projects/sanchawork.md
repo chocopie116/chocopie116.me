@@ -4,6 +4,7 @@ title = "三軒茶屋にコワーキングスペースをつくる"
 image = "sanchawork.png"
 subtitle = "心地よい場所をつくるための方法論を学ぶ実験"
 status="complete"
+weight=3
 +++
 
 ## Tag Line
