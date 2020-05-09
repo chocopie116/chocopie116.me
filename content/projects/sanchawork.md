@@ -12,23 +12,11 @@ status="complete"
 
 ## Story
 
-きっかけは入居しているコワーキングスペースでの出会いでした。  
-その人は三軒茶屋にコワーキングスペースをつくりたいといいました。当時の僕は理想のコワーキングスペースを利用していて、自分なりの期待と課題感をもっていたので  
-それらを満たすコワーキングスペースをつくりたい！とおもってお手伝いすることにしました。
+三茶に働く場所がほしいという大人が集まって始まったプロジェクト。  
+自分たちで物件を見つけて、会社を登記し、融資借り入れを行い運営をしています。  
+地域密着型のコワーキングスペースの経営・運営をしています。
 
-僕自身、原宿 WeWork や溝の口 nokutica というコワーキングスペースに入っていました。そこで出会った人と遊んだり、仕事をしたり、会社をつくったり、本当にとても豊かになりました。  
-期待は人との出会いです。
-
-そして課題とは、既に出来上がったコミュニティには人が入りづらい・なかなか仲良くなるのが難しいといったものです。
-
-自分自身の試行錯誤はありますが、自分のフィールドをもって実験をするために
-自分がコワーキングスペースをつくるところから関わらないとわからないなという課題意識はありました。
-
-<img src="/img/zatta/9c10b7c2cf4903d24e33bfb78fcaefa2.jpg" style="width:100%; max-width:800px"/>
-
-<iframe style="width:100%; max-width:800px;min-height:400px;" src="https://www.youtube.com/embed/yr0z2HGZA1k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe style="width:100%; max-width:800px; min-height:400px;" src="https://www.youtube.com/embed/2u6r-aK-XrA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![](/img/zatta/9c10b7c2cf4903d24e33bfb78fcaefa2.jpg)
 
 ## Artifacts
 

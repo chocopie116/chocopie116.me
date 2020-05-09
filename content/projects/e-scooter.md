@@ -1,7 +1,7 @@
 +++
 date = "2019-01-20T23:44:30+09:00"
 title = "電動キックボードの社会実装"
-image = "scooter.png"
+image = "zero9.jpg"
 subtitle = "法律と向き合うこと・新しい文化をつくる挑戦"
 weight=1
 status="complete"
@@ -16,8 +16,6 @@ status="complete"
 初めて出会った時に衝撃を受けました。
 モビリティにおける自動運転の前の唯一の革命だなと。
 この移動体験を日本でも広めたいというところからプロジェクトは始まりました。
-
-<iframe style="width:100%; min-height:300px;" src="https://www.youtube.com/embed/gfL92pt2HJo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Artifacts
 
