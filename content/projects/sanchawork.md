@@ -32,12 +32,14 @@ status="complete"
 
 ## Artifacts
 
--   クラウドファンディング
+-   クラウドファンディングの実施
 -   コワーキングスペースの運営・経営
+-   コワーキングスペースの内装の DIY
 -   コミュニティの運営
 -   動画制作
 
 # Reference
 
 -   [三茶 WORK のオフィシャルページ(https://3chawork.tokyo/)](https://3chawork.tokyo/)
+-   [三茶 WORK オープンのプレスリリース(PR TIMES)](https://prtimes.jp/main/html/rd/p/000000001.000046794.html)
 -   [クラウドファンディングで 147 万円のご支援いただきました(campfire)](https://camp-fire.jp/projects/view/134990)

@@ -4,20 +4,25 @@ title = "農業の遊休資産を考える"
 image = "agriculture.jpg"
 subtitle = "歴史ある産業におけるイノベーションの起こし方"
 status="complete"
+weight=2
 +++
 
 ## Tag Line
-農業×ITのリアルさを感じる
+
+レガシー産業を IT でアップデートする
 
 ## Story
-農業×ITの流通に関わるシステム構築をしています。
-自身で八百屋を運営しつつ、生産者の生産量をうまくデータベース化するためのお手伝いをしています。
 
-ITによる効率化による伸びしろというより、ITによって眠っていた資産を活かせないか仮説検証しています。
+農業 × IT の流通に関わるシステム構築を行いました。  
+八百屋を運営しているクライアントさんの新規事業のプロダクト開発の 0→1 を担当しました。
 
+要件定義から着手して 8 ヶ月で資金調達を行いました。
 
 ## Artifacts
-- Firebase × Liff(LINE Front-end-Framework)を使ったシステム
+
+-   Firebase × Liff(LINE Front-end-Framework)を使ったシステム
 
 # Reference
-- blog(coming soon...)
+
+-   [サービス紹介ページ](https://bando.in/)
+-   [Coral Capital から 5,000 万円の資金調達のプレスリリース(PR TIMES)](https://prtimes.jp/main/html/rd/p/000000002.000028751.html)
