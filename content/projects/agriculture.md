@@ -22,7 +22,7 @@ weight=2
 
 -   Firebase × Liff(LINE Front-end-Framework)を使ったシステム
 
-# Reference
+## Reference
 
 -   [サービス紹介ページ](https://bando.in/)
 -   [Coral Capital から 5,000 万円の資金調達のプレスリリース(PR TIMES)](https://prtimes.jp/main/html/rd/p/000000002.000028751.html)

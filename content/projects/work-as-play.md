@@ -43,7 +43,7 @@ status="progress"
 -   AWS (Route53, CloudFront, S3)
 -   HUGO
 
-# Reference
+## Reference
 
 -   [ホモ・ルーデンス](https://www.amazon.co.jp/dp/4122000254)
 -   [ブログ~ぼうけんのしょ~](https://note.mu/chocopie116/m/m603ca11b459e)

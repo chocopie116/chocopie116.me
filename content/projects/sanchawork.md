@@ -27,7 +27,7 @@ weight=3
 -   コミュニティの運営
 -   動画制作
 
-# Reference
+## Reference
 
 -   [三茶 WORK のオフィシャルページ(https://3chawork.tokyo/)](https://3chawork.tokyo/)
 -   [三茶 WORK オープンのプレスリリース(PR TIMES)](https://prtimes.jp/main/html/rd/p/000000001.000046794.html)

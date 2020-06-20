@@ -25,7 +25,7 @@ status="complete"
 -   SNS アカウントの運用
 -   Shopify を使った EC サイトの構築
 
-# Reference
+## Reference
 
 -   [製品販売ページ](https://zero9.hop-on.jp/)
 -   [渋谷 PARCO に 出店しました](https://prtimes.jp/main/html/rd/p/000000003.000047192.html)
