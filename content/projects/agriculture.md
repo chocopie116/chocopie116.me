@@ -18,7 +18,7 @@ weight=2
 
 要件定義から着手して 8 ヶ月で資金調達を行いました。
 
-## Artifacts
+## Achivements
 
 -   Firebase × Liff(LINE Front-end-Framework)を使ったシステム
 

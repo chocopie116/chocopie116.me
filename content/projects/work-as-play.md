@@ -33,7 +33,7 @@ status="progress"
 
 どういう業界・職種から順に社会実装されていくか、それをどのように加速していけるかがテーマ。
 
-## Artifacts
+## Achivements
 
 -   [ブログ~ぼうけんのしょ~](https://note.mu/chocopie116/m/m603ca11b459e)
 -   Project ベースのポートフォリオサイト(当サイト)

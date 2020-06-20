@@ -19,7 +19,7 @@ weight=3
 
 ![](/img/zatta/9c10b7c2cf4903d24e33bfb78fcaefa2.jpg)
 
-## Artifacts
+## Achivements
 
 -   クラウドファンディングの実施
 -   コワーキングスペースの運営・経営
