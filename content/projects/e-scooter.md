@@ -20,14 +20,16 @@ status="complete"
 ## Achivements
 
 -   法律(車両法・道路交通法)の仮説検証を進める
--   動画制作
--   記事作成
--   SNS アカウントの運用
 -   Shopify を使った EC サイトの構築
+-   販売促進(動画制作・記事作成)
+-   SNS アカウントの運用
+-   会社運営
 
 ## Reference
 
--   [製品販売ページ](https://zero9.hop-on.jp/)
--   [渋谷 PARCO に 出店しました](https://prtimes.jp/main/html/rd/p/000000003.000047192.html)
+-   [製品紹介ページ](https://zero9.hop-on.jp/)
+-   [PR TIMES(人気の公道走行可能な電動キックボードZERO9、日本での予約販売開始！渋谷パルコでの展示や無料試乗会も開催)](https://prtimes.jp/main/html/rd/p/000000003.000047192.html)
 -   [YouTube チャンネル](https://www.youtube.com/channel/UC4Ne-lcQJZr6dSb-FJYc2og)
 -   [Twitter アカウント](https://twitter.com/hop__on)
+-   [ECサイト(Shopify)](https://swallow-scooter.com/)
+-   [K-Mobility合同会社](https://www.hop-on.jp/about)
