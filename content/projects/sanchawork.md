@@ -19,6 +19,10 @@ weight=3
 
 ![](/img/zatta/9c10b7c2cf4903d24e33bfb78fcaefa2.jpg)
 
+![](/img/zatta/space-3f-01.jpg)
+
+![](/img/zatta/space-4f-01.jpg)
+
 ## Achivements
 
 -   クラウドファンディングの実施
